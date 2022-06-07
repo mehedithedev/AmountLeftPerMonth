@@ -11,6 +11,6 @@ let ownCost=(netWorth-tuitionFee)/12
 if (typeof ownCost === NaN) {
     document.write(`Enter valid enput`)
 } else {    
-    document.write(`You will have ${Math.floor(ownCost)}$ left for your living expense and other for a month.`) 
+    document.write(`There will left approximately ${Math.floor(ownCost)}$ , for your living expense and others for a month.`) 
 }
 console.log(typeof ownCost)
