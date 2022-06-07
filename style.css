@@ -1,0 +1,17 @@
+body{
+    background-color: slategray;
+    color: aliceblue;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    color: darksalmon;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+h2{
+    text-align: center;
+    font-size: 30px;
+    color: lightyellow;
+    font-family: 'Nanum Gothic', sans-serif;
+}
